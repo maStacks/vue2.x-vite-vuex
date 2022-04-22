@@ -1,6 +1,7 @@
 {
   "name": "vue2.x-vite-vuex",
   "version": "1.0.0",
+  "author": "maStacks",
   "private": true,
   "scripts": {
     "dev": "vite",
